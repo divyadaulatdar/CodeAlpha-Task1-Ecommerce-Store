@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 1499,
+      "category": "Electronics",
+      "description": "High quality wireless headphones with clear sound and comfortable design.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 2499,
+      "category": "Electronics",
+      "description": "Modern smartwatch with fitness tracking and notifications.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 1999,
+      "category": "Fashion",
+      "description": "Comfortable running shoes suitable for daily workouts and sports.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": 4,
+      "name": "Backpack",
+      "price": 999,
+      "category": "Fashion",
+      "description": "Durable and stylish backpack for college, office and travel.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62"
+    },
+    {
+      "id": 5,
+      "name": "Coffee Mug",
+      "price": 399,
+      "category": "Home",
+      "description": "Premium ceramic coffee mug with a simple modern design.",
+      "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a"
+    },
+    {
+      "id": 6,
+      "name": "Laptop Stand",
+      "price": 799,
+      "category": "Accessories",
+      "description": "Adjustable laptop stand designed for comfortable working.",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46"
+    }
+  ],
+  "users": [],
+  "orders": []
+}
