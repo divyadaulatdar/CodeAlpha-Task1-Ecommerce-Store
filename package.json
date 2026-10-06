@@ -1,0 +1,13 @@
+{
+  "name": "codealpha-task1-ecommerce-store",
+  "version": "1.0.0",
+  "description": "CodeAlpha Full Stack Development Task 1 - Simple E-commerce Store",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
